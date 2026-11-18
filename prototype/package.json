@@ -6,7 +6,10 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "vitest run",
+    "test:api": "node scripts/api-test.mjs",
+    "db:setup": "node scripts/ensure-env.mjs && prisma db push"
   },
   "dependencies": {
     "@prisma/client": "^6.19.3",

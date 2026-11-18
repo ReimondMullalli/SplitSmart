@@ -7,6 +7,7 @@ CIS 285 Labs 6–9 repository.
 | 6 | Requirements with Spec Kit | Repository root (see below) |
 | 7 | AI-assisted architecture and design | [`lab7/`](lab7/README.md) (merged in from the former `Lab7` repo, history kept) |
 | 8 | Docker dev container | [`.devcontainer/`](.devcontainer/), `prototype/` |
+| 9 | AI-generated SplitSmart prototype | [`prototype/`](prototype/README.md) (branch `feature/lab9-ai-prototype`) |
 
 ## Lab 6
 
